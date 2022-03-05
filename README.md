@@ -1,0 +1,1 @@
+# Lambda-function-in-python
